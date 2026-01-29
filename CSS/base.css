@@ -1,0 +1,33 @@
+/*Reset utilitário e configurações gerais */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Variáveis CSS */
+
+html {
+    font-size: 16px;
+}
+
+body {
+    line-height: 1.6;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul {
+    list-style: none;
+}
+
+button{
+    border: none;
+    background: none;
+    cursor: pointer;
+    font-family: inherit;
+}
