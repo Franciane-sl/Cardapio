@@ -7,6 +7,26 @@
 }
 
 /* Variáveis CSS */
+:root{
+    --color-primary: #b56a4d;
+    --color-primary-houver: #9e5a41;
+    --color-background: #f7f7f7;
+    --color-surface: #ffffff;
+    --color-text: #2d2d2d;
+    --color-text-light: #6b6b6b;
+    --color-border: #e5e5e5;
+
+    --font-family-base: 'Inter', sans-serif;
+
+    --container-width: 1200px;
+    --border-radius: 12px;
+
+    --spacing-xs: 8px;
+    --spacing-sm: 12px;
+    --spacing-md: 20px;
+    --spacing-lg: 32px;
+    --spacing-xl: 48px;
+}
 
 html {
     font-size: 16px;
